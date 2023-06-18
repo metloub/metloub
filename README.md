@@ -1,4 +1,4 @@
-### Howdy! 👋
+# Howdy! 👋
 
 I'm **__Metloub__**, an aspiring Android Studio developer and passionate UX/UI designer. Welcome to my GitHub profile!
 
@@ -11,4 +11,4 @@ I'm **__Metloub__**, an aspiring Android Studio developer and passionate UX/UI d
 
 🚀 Thank you for visiting my profile! Take a moment to explore my projects, get inspired, and join me on this exciting journey of creating exceptional Android experiences and captivating designs.
 
-# Keep innovating, stay curious, and let's leave our mark on the world! ✨
+### Keep innovating, stay curious, and let's leave our mark on the world! ✨
